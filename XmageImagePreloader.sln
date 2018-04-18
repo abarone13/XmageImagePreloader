@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePreloader", "ImagePreloader\ImagePreloader.csproj", "{ED7C7A7D-C9F9-4657-8209-396A6CB8FDFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmageImagePreloader", "XmageImagePreloader\XmageImagePreloader.csproj", "{2A25B00B-8EDF-45D4-B711-4B989D55E35F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ED7C7A7D-C9F9-4657-8209-396A6CB8FDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED7C7A7D-C9F9-4657-8209-396A6CB8FDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED7C7A7D-C9F9-4657-8209-396A6CB8FDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED7C7A7D-C9F9-4657-8209-396A6CB8FDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A25B00B-8EDF-45D4-B711-4B989D55E35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A25B00B-8EDF-45D4-B711-4B989D55E35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A25B00B-8EDF-45D4-B711-4B989D55E35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A25B00B-8EDF-45D4-B711-4B989D55E35F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
